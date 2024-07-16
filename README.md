@@ -41,3 +41,12 @@ git clone https://github.com/workstatic/fonts.git
 6. 恭喜，字体添加成功
 7. 添加成功后，请到README.md文件内添加字体信息
 后续可远程调用字体或者下载字体都可以。
+## 字体列表
+| 字体名称 | 字体文件 | 字体文件大小 | 字体文件格式 |
+| :--- | :--- | :--- | :--- |
+| PingFang SC | [PingFangSC-Regular.woff2](https://fonts.workstatic.cn/PingFangSC/woff2/PingFangSC-Regular.woff2) | 1.02KB | woff2 |
+| PingFang SC | [PingFangSC-Medium.woff2](https://fonts.workstatic.cn/PingFangSC/woff2/PingFangSC-Medium.woff2) | 1.02KB | woff2 |
+| PingFang SC | [PingFangSC-Light.woff2](https://fonts.workstatic.cn/PingFangSC/woff2/PingFangSC-Light.woff2) | 1.02KB | woff2 |
+| PingFang SC | [PingFangSC-Thin.woff2](https://fonts.workstatic.cn/PingFangSC/woff2/PingFangSC-Thin.woff2) | 1.02KB | woff2 |
+| PingFang SC | [PingFangSC-Semibold.woff2](https://fonts.workstatic.cn/PingFangSC/woff2/PingFangSC-Semibold.woff2) | 1.02KB | woff2 |
+| PingFang SC | [PingFangSC-Ultralight.woff2](https://fonts.workstatic.cn/PingFangSC/woff2/PingFangSC-Ultralight.woff2) | 1.02KB | woff2 |
